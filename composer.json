@@ -1,0 +1,18 @@
+{
+  "name": "delboy1978uk/bone-gentest",
+  "description": "BoneMvcFramework test converting a module to composer package",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Derek Stephen McLean",
+      "email": "delboy1978uk@gmail.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Random\\Developer\\Awesome\\": "src/"
+    }
+  }
+}
