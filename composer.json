@@ -12,7 +12,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Random\\Developer\\Awesome\\": "src/"
+      "Random\\Developer\\Jedi\\": "src/"
     }
   }
 }
